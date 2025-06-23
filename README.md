@@ -7,12 +7,12 @@ This script allows the user to input two numbers and performs:
 - Multiplication
 - Division (with zero division handling)
 
-**File**: `task1_math_operations.py`
+**File**: `task1.py`
 
 ## Task 2: Create a Personalized Greeting
 This script takes the user's first and last name as input, combines them, and displays a personalized greeting.
 
-**File**: `task2_greeting.py`
+**File**: `task2.py`
 
 ## How to Run
 1. Clone the repository
@@ -20,5 +20,5 @@ This script takes the user's first and last name as input, combines them, and di
 3. Run the scripts using Python:
 
 ```bash
-python task1_math_operations.py
-python task2_greeting.py
+python task1.py
+python task2.py
